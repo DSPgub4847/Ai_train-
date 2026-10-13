@@ -1,0 +1,6 @@
+Hello, my name is AI.
+I am a small artificial intelligence model.
+I can learn patterns from text.
+Python is a programming language.
+Linux is an operating system.
+Artificial intelligence is the study of intelligent machines.

@@ -1,0 +1,89 @@
+Cybersecurity is the practice of protecting computers networks systems and data from unauthorized access misuse and disruption.
+
+Information security focuses on confidentiality integrity and availability.
+
+Confidentiality means that information is accessible only to authorized users.
+
+Integrity means that information remains accurate complete and protected from unauthorized modification.
+
+Availability means that authorized users can access systems and information when needed.
+
+Authentication verifies the identity of a user or system.
+
+Authorization determines what an authenticated user is allowed to access.
+
+A strong password should be long unique and difficult to guess.
+
+Multi factor authentication adds another security layer by requiring multiple forms of verification.
+
+Least privilege means giving users and applications only the permissions they need.
+
+Network security protects communication systems and network infrastructure from attacks and misuse.
+
+A firewall controls network traffic according to defined security rules.
+
+DNS translates domain names into IP addresses.
+
+HTTP is a protocol used to transfer information between web clients and servers.
+
+HTTPS protects HTTP communication using TLS encryption.
+
+TLS helps protect data while it travels across a network.
+
+Encryption transforms readable information into protected ciphertext using a cryptographic algorithm.
+
+Hash functions produce a fixed length representation of input data.
+
+A cryptographic hash should make it computationally difficult to recover the original input.
+
+Secure software development includes input validation output encoding authentication authorization logging and error handling.
+
+Input validation checks whether incoming data matches expected rules and formats.
+
+Output encoding helps prevent untrusted data from being interpreted as executable content.
+
+SQL injection occurs when untrusted input changes the intended structure of a database query.
+
+Parameterized queries help prevent SQL injection.
+
+Cross site scripting occurs when untrusted content is interpreted as executable script in a user's browser.
+
+Content security policy can reduce the impact of some cross site scripting attacks.
+
+Broken access control occurs when an application fails to properly enforce authorization.
+
+Security logging records important events that can help detect investigate and respond to incidents.
+
+Incident response is the process of detecting analyzing containing and recovering from security incidents.
+
+Security monitoring analyzes system network and application activity for suspicious behavior.
+
+A security analyst should investigate unusual authentication failures unexpected network connections and abnormal system activity.
+
+Vulnerability management includes identifying prioritizing remediating and verifying vulnerabilities.
+
+A vulnerability is a weakness that can potentially be exploited to compromise a system.
+
+Risk depends on factors such as likelihood impact exposure and existing security controls.
+
+Security updates and patches reduce exposure to known vulnerabilities.
+
+Backups help organizations recover from data loss system failure and security incidents.
+
+Digital forensics involves collecting preserving and analyzing digital evidence.
+
+Evidence should be handled carefully so that its integrity and provenance can be maintained.
+
+Defensive security focuses on reducing risk detecting threats protecting systems and responding to incidents.
+
+Ethical security testing should be performed only on systems where authorization has been provided.
+
+A security professional should document findings clearly and recommend appropriate remediation.
+
+Linux security includes proper permissions user management service configuration package updates and system monitoring.
+
+File permissions control who can read write or execute files.
+
+Secure configuration reduces unnecessary services permissions and exposed interfaces.
+
+A security aware developer considers threats and security requirements throughout the software development lifecycle.

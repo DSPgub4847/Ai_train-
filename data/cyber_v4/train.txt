@@ -1,0 +1,149 @@
+Question: What is cybersecurity?
+Answer: Cybersecurity is the practice of protecting computers, networks, applications, systems, and data from unauthorized access, misuse, disruption, and attacks.
+
+Question: What is the CIA triad?
+Answer: The CIA triad represents confidentiality, integrity, and availability. Confidentiality protects information from unauthorized access, integrity protects information from unauthorized modification, and availability keeps systems and information accessible when needed.
+
+Question: What is confidentiality?
+Answer: Confidentiality means that information is accessible only to authorized people, systems, or processes.
+
+Question: What is integrity?
+Answer: Integrity means that information remains accurate, complete, and protected from unauthorized modification.
+
+Question: What is availability?
+Answer: Availability means that systems and information remain accessible and usable when authorized users need them.
+
+Question: What is authentication?
+Answer: Authentication is the process of verifying the identity of a user, device, or system.
+
+Question: What is authorization?
+Answer: Authorization determines which resources and actions an authenticated user or system is allowed to access.
+
+Question: Why is multi factor authentication useful?
+Answer: Multi factor authentication adds additional verification factors beyond a password, making unauthorized account access more difficult.
+
+Question: What is the principle of least privilege?
+Answer: Least privilege means giving users, applications, and systems only the permissions they need to perform their required tasks.
+
+Question: What is a firewall?
+Answer: A firewall controls network traffic according to security rules and can allow or block connections based on defined policies.
+
+Question: What is network segmentation?
+Answer: Network segmentation divides a network into separate security zones so that access can be controlled and security incidents can be contained.
+
+Question: What is DNS?
+Answer: DNS translates domain names into IP addresses and helps systems locate services on a network.
+
+Question: What is HTTP?
+Answer: HTTP is an application layer protocol used for communication between web clients and web servers.
+
+Question: What is HTTPS?
+Answer: HTTPS is HTTP protected by TLS, providing encryption and helping protect the confidentiality and integrity of web traffic.
+
+Question: What is TLS?
+Answer: TLS is a security protocol that helps protect data transmitted between communicating systems by providing encryption and authentication.
+
+Question: What is encryption?
+Answer: Encryption transforms readable information into protected data so that unauthorized parties cannot easily understand it.
+
+Question: What is hashing?
+Answer: Hashing transforms input data into a fixed length value. Cryptographic hashes are commonly used for integrity checking and secure password storage designs.
+
+Question: Why should passwords not be stored as plain text?
+Answer: Plain text password storage exposes users to unnecessary risk if a database is compromised. Passwords should be protected using an appropriate password hashing algorithm with a unique salt.
+
+Question: What is input validation?
+Answer: Input validation checks that incoming data matches expected types, formats, ranges, and constraints before the application processes it.
+
+Question: What is output encoding?
+Answer: Output encoding converts data into a safe representation for its intended context and helps prevent untrusted data from being interpreted as executable content.
+
+Question: What is SQL injection?
+Answer: SQL injection is a vulnerability that can occur when untrusted input is incorrectly incorporated into database queries. Parameterized queries and prepared statements are important defenses.
+
+Question: How can applications reduce SQL injection risk?
+Answer: Applications can reduce SQL injection risk by using parameterized queries, prepared statements, safe database APIs, input validation, and appropriate database permissions.
+
+Question: What is cross site scripting?
+Answer: Cross site scripting is a web application vulnerability in which untrusted content can be interpreted as active script in a user's browser.
+
+Question: How can cross site scripting risk be reduced?
+Answer: Cross site scripting risk can be reduced with context appropriate output encoding, input validation, secure frameworks, content security policies, and careful handling of untrusted content.
+
+Question: What is broken access control?
+Answer: Broken access control occurs when an application fails to correctly enforce which users are allowed to perform particular actions or access particular resources.
+
+Question: What is secure coding?
+Answer: Secure coding is the practice of designing and implementing software to reduce vulnerabilities and protect data, systems, and users.
+
+Question: What is vulnerability management?
+Answer: Vulnerability management is the process of identifying, evaluating, prioritizing, remediating, and verifying security weaknesses.
+
+Question: Why is patching important?
+Answer: Patching fixes known software defects and security vulnerabilities and reduces the opportunity for attackers to exploit outdated software.
+
+Question: What is security monitoring?
+Answer: Security monitoring involves collecting and analyzing relevant events and signals to identify suspicious activity and potential security incidents.
+
+Question: What is a security log?
+Answer: A security log records events that can help administrators investigate authentication activity, system changes, network events, errors, and possible security incidents.
+
+Question: What is incident response?
+Answer: Incident response is the organized process of detecting, analyzing, containing, resolving, and learning from security incidents.
+
+Question: What is digital forensics?
+Answer: Digital forensics is the disciplined collection and analysis of digital evidence to understand events while preserving evidence integrity.
+
+Question: Why are backups important for security?
+Answer: Backups help organizations recover data and services after accidental deletion, hardware failure, or security incidents.
+
+Question: What is malware?
+Answer: Malware is software designed to perform harmful or unauthorized actions, such as disrupting systems, stealing information, or damaging data.
+
+Question: How can malware risk be reduced?
+Answer: Malware risk can be reduced through timely updates, application controls, safe configuration, endpoint protection, backups, least privilege, and security awareness.
+
+Question: What is phishing?
+Answer: Phishing is a social engineering technique that attempts to trick people into revealing information or performing unsafe actions.
+
+Question: How can phishing risk be reduced?
+Answer: Phishing risk can be reduced through user education, multi factor authentication, email security controls, careful verification, and reporting suspicious messages.
+
+Question: What is secure configuration?
+Answer: Secure configuration means setting systems and applications according to security requirements while disabling unnecessary services, accounts, permissions, and features.
+
+Question: Why is logging important?
+Answer: Logging provides information that can help detect suspicious behavior, investigate incidents, troubleshoot systems, and understand security events.
+
+Question: What is risk assessment?
+Answer: Risk assessment identifies potential threats and vulnerabilities, estimates their possible impact and likelihood, and helps prioritize security controls.
+
+Question: What is defense in depth?
+Answer: Defense in depth uses multiple complementary security controls so that failure of one control does not automatically result in complete compromise.
+
+Question: What is zero trust?
+Answer: Zero trust is a security approach that avoids automatically trusting users or devices and continuously evaluates access based on identity, context, and policy.
+
+Question: What is endpoint security?
+Answer: Endpoint security protects devices such as computers and servers through controls including secure configuration, updates, monitoring, access control, and security software.
+
+Question: What is secure software development?
+Answer: Secure software development integrates security requirements, threat analysis, secure coding, testing, dependency management, and remediation throughout the software development lifecycle.
+
+Question: Why is authorization important?
+Answer: Authorization prevents authenticated users from accessing resources or performing actions beyond their assigned permissions.
+
+Question: What is threat modeling?
+Answer: Threat modeling is a structured process for identifying assets, trust boundaries, potential threats, and security controls during system design.
+
+Question: What is a security vulnerability?
+Answer: A security vulnerability is a weakness in software, hardware, configuration, or process that could be used to cause an unintended security impact.
+
+Question: What is the difference between a threat and a vulnerability?
+Answer: A threat is a potential cause of harm, while a vulnerability is a weakness that could be exploited or otherwise contribute to that harm.
+
+Question: What is ethical cybersecurity?
+Answer: Ethical cybersecurity means performing security testing, research, and defensive activities with appropriate authorization and within defined rules and scope.
+
+Question: Why should security testing be authorized?
+Answer: Authorization defines the permitted systems, methods, timing, and scope of testing and helps prevent security work from causing unintended harm.
